@@ -3,6 +3,8 @@ Custom Audio Effect Plugins in MATLAB
 An OURE Research Project
 Project Overview
 
+Some demonstrations --> [MATLAB VST Effects on Hackaday](https://hackaday.io/project/202844-matlab-vst-effects). 
+
 This repository contains MATLAB-based audio effect plugins designed for digital signal processing (DSP) research. The project focuses on:
 
     Designing modular audio effects (e.g., distortion, reverb, filters).
