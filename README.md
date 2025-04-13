@@ -7,7 +7,7 @@ Some demonstrations --> [MATLAB VST Effects on Hackaday](https://hackaday.io/pro
 
 This repository contains MATLAB-based audio effect plugins designed for digital signal processing (DSP) research. The project focuses on:
 
-    Designing modular audio effects (e.g., distortion, reverb, filters).
+    Designing effects for real-time processing.
 
     Exploring psychoacoustic principles for creative sound manipulation.
 
