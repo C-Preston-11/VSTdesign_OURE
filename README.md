@@ -15,24 +15,21 @@ Features
 
 ✅ Core Effects:
 
-    Dynamic range compression
+    Variable order FIR LPF (window method)
+    
+    Variable order IIR LPF
 
-    Granular synthesis
+    Variable resonance IIR LPF (second-order)
 
-    Nonlinear distortion
+    Ping-Pong Delay 
 
-    FIR/IIR filter design
+    Reverberator (Schroeder algorithm)
 
 ✅ Tools:
 
-    GUI-based parameter tuning (appdesigner).
+    GUI-based parameter tuning
 
-    Spectral analysis (FFT, spectrograms).
+    Spectral analysis (FFT, spectrograms)
 
-    Real-time audio I/O (using audioDeviceReader/audioDeviceWriter).
+    Real-time audio I/O (using audioDeviceReader/audioDeviceWriter)
 
-✅ Custom Modules:
-
-    ModularSynth.m: A framework for chaining effects.
-
-    PsychoacousticModeling.m: Perceptual optimization of effects
