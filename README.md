@@ -15,7 +15,7 @@ This repository contains MATLAB-based audio effect plugins designed for digital 
 
 Features
 
-✅ Core Effects:
+Core Effects:
 
     Variable order FIR LPF (window method)
     
@@ -27,7 +27,7 @@ Features
 
     Reverberator (Schroeder algorithm)
 
-✅ Tools:
+Tools:
 
     GUI-based parameter tuning
 
