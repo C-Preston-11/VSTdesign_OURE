@@ -9,31 +9,31 @@ Some demonstrations --> [MATLAB VST Effects on Hackaday](https://hackaday.io/pro
 
 This repository contains MATLAB-based audio effect plugins designed for digital signal processing (DSP) research. The project focuses on:
 
-    Designing effects for real-time processing.
+Designing effects for real-time processing.
 
-    Exploring psychoacoustic principles for creative sound manipulation.
+Exploring psychoacoustic principles for creative sound manipulation.
 
-    Optimizing real-time performance for potential integration with DAWs (e.g., via VST or Audio Toolbox).
+Optimizing real-time performance for potential integration with DAWs (e.g., via VST or Audio Toolbox).
 
 Features
 
 Core Effects:
 
-    Variable order FIR LPF (window method)
+- Variable order FIR LPF (window method)
     
-    Variable order IIR LPF
+- Variable order IIR LPF
 
-    Variable resonance IIR LPF (second-order)
+- Variable resonance IIR LPF (second-order)
 
-    Ping-Pong Delay 
+- Ping-Pong Delay 
 
-    Reverberator (Schroeder algorithm)
+- Reverberator (Schroeder algorithm)
 
 Tools:
 
-    GUI-based parameter tuning
+- GUI-based parameter tuning
 
-    Spectral analysis (FFT, spectrograms)
+- Spectral analysis (FFT, spectrograms)
 
-    Real-time audio I/O (using audioDeviceReader/audioDeviceWriter)
+- Real-time audio I/O (using audioDeviceReader/audioDeviceWriter)
 
